@@ -1,7 +1,7 @@
 id = "adventure-zed"
 name = "Adventure Zed"
-version = "0.1.0"
+version = "0.0.1"
 schema_version = 1
-authors = ["muktadira22"]
+authors = ["muktadira22 <aryamuktadir@gmail.com>"]
 description = "Zed Theming for someone who like color palette of 'Adventure Time'"
 repository = "https://github.com/muktadira22/adventure-zed"
